@@ -21,7 +21,7 @@
         <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="5.0.0-preview.8.20407.11" />
         <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="5.0.0-preview.8.20407.11" />
         <PackageReference Include="Microsoft.Graph" Version="3.12.0" />
-        <PackageReference Include="Microsoft.Identity.Client" Version="4.18.0" />
+        <PackageReference Include="Microsoft.Identity.Client" Version="4.24.0" />
     </ItemGroup>
 
     <ItemGroup>
